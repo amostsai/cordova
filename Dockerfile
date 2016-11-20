@@ -1,6 +1,6 @@
 # Learning from beevelop, thanks!!
 
-FROM amostsai/android-nodejs:6.9.0
+FROM amostsai/android-nodejs
 
 MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
