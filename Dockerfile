@@ -6,6 +6,6 @@ MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
 ENV CORDOVA_VERSION 6.4.0
 
-WORKDIR "/tmp"
+WORKDIR "/app"
 
 RUN npm i -g --unsafe-perm cordova@${CORDOVA_VERSION}
