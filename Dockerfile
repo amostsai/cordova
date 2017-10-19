@@ -4,7 +4,7 @@ FROM amostsai/android-nodejs
 
 MAINTAINER Amos Tsai <amos.tsai@gmail.com>
 
-ENV CORDOVA_VERSION 6.4.0
+ENV CORDOVA_VERSION 7.1.0
 
 WORKDIR "/app"
 
